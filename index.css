@@ -1,0 +1,15 @@
+.jumbotron {
+    background-image: url("https://image.ibb.co/ipPhp7/doc.png");
+    background-color: #17234E;
+    margin-bottom: 20;
+    min-height: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+    -webkit-background-size: cover;
+    background-size: cover;
+    margin-top: 30px; 
+    padding-bottom: 10%;
+}
+body{
+    background-color: #fbfbfb;
+}
